@@ -1,19 +1,37 @@
+# Wir schreiben ein Kochbuch
+Jeder Tisch schreibt gemeinsam ein kleines Kochbuch. Ziel ist es am Ende ein gemeinsames kleines Kochbuch erstellt zu haben :)
+
 # Aufgaben
 
 ### Aufgabe 1
-
+- Bestimmt eine Person als Teamleitung
+- Die Teamleitung erstellt das Repo für euren Tisch und lädt alle anderen dazu ein
+- Alle anderen ziehen das Repo auf den eigenen Rechner und vergewissern sich, dass sie in der IDE ihrer Wahl mit dem Repo verbunden sind
 
 ### Aufgabe 2
-
+- Jede/r erstellt einen eigenen Branch für sein Lieblingsrezept (benennt den Branch hierbei am einfachsten nach euch selbst). KEINER ARBEITET IN MAIN!!!
+- Erstellt eine Datei, die passend zu eurem Rezept ist (z.B. Pizza.txt - die Datei kann gerne im Hauptverzeichnis bleiben)
 
 ### Aufgabe 3
-
+- Wenn euer Rezept fertig ist, dann bringt es in euer Repo, damit es die anderen auch sehen können
+- Wartet bis alle anderen aus eurem Team fertig sind
 
 ### Aufgabe 4
+- Vollzieht gemeinsam an einem Computer den Merge in Main
 
+### Aufgabe 5
+- Die Teamleitung erstellt in Main eine Datei namens "UnserRezept.txt"
+- Alle ziehen die geänderten Daten des aktuellen Main in ihren eigenen Branch
+- Jeder schreibt in das leere Dokument "UnserRezept.txt" genau 3 Zusaten (z.b. wie folgt:)
+```bash
+Zwiebeln
+Gummibärchen
+Schokolade
+```
+- Wenn ihr fertig seid, schiebt ihr eure Version von "UnserRezept.txt" zurück ins Repo.
 
-###Aufgabe 5
-
+### Aufgabe 6
+- Schaut wieder gemeinsam an einem PC wie und ob der Merge klappt
 
 # 🟢 Git & GitHub Cheat-Sheet für VS Code
 *Für den Workshop "Unser Lieblings-Rezeptbuch"*
