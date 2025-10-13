@@ -1,3 +1,20 @@
+# Aufgaben
+
+### Aufgabe 1
+
+
+### Aufgabe 2
+
+
+### Aufgabe 3
+
+
+### Aufgabe 4
+
+
+###Aufgabe 5
+
+
 # 🟢 Git & GitHub Cheat-Sheet für VS Code
 *Für den Workshop "Unser Lieblings-Rezeptbuch"*
 
