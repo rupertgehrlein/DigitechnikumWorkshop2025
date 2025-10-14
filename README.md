@@ -22,7 +22,7 @@ Jeder Tisch schreibt gemeinsam ein kleines Kochbuch. Ziel ist es am Ende ein gem
 ### Aufgabe 5
 - Die Teamleitung erstellt in Main eine Datei namens "UnserRezept.txt"
 - Alle ziehen die geänderten Daten des aktuellen Main in ihren eigenen Branch
-- Jeder schreibt in das leere Dokument "UnserRezept.txt" genau 3 Zusaten (z.b. wie folgt:)
+- Jeder schreibt in das leere Dokument "UnserRezept.txt" genau 3 Zutaten (z.b. wie folgt:)
 ```bash
 Zwiebeln
 Gummibärchen
