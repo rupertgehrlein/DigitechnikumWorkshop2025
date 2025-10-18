@@ -1,6 +1,9 @@
 # Wir schreiben ein Kochbuch
 Jeder Tisch schreibt gemeinsam ein kleines Kochbuch. Ziel ist es am Ende ein gemeinsames kleines Kochbuch erstellt zu haben :)
 
+# Installation (wenn nicht schon passiert)
+Ihr findet [hier][https://github.com/git-guides/install-git].
+
 # Aufgaben
 
 ### Aufgabe 1
