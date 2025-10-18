@@ -1,8 +1,8 @@
-# Wir schreiben ein Kochbuch
+# Wir schreiben ein Kochbuch 🍪👨‍🍳👩‍🍳🍝
 Jeder Tisch schreibt gemeinsam ein kleines Kochbuch. Ziel ist es am Ende ein gemeinsames kleines Kochbuch erstellt zu haben :)
 
 # Installation (wenn nicht schon passiert)
-Ihr findet [hier](https://github.com/git-guides/install-git).
+Ihr findet [hier](https://github.com/git-guides/install-git) die offizielle Installationsanleitungen für alle Betriebssysteme. Gebt Bescheid, wenn es Probleme gibt 😉
 
 # Aufgaben
 
